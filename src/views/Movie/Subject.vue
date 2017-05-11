@@ -8,7 +8,7 @@
     </div>
 
     <div class="movie-subject-iamge">
-      <mu-paper class="demo-paper" :zDepth="4" style="width:35%;height:200px;">
+      <mu-paper class="demo-paper" :zDepth="4" style="width:35%;height:150px;">
         <img :src="movie.images.large" style="width:100%;">
       </mu-paper>
     </div>
@@ -148,7 +148,7 @@ export default {
   clear: both;
 }
 .movie-subject-text .text-left{
-  width: 60%;
+  width: 50%;
   float: left;
   margin: 10px;
 }
