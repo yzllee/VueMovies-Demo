@@ -1,6 +1,6 @@
 # VueMovies 
 
-使用 Vue + Webpack + VueRouter + MuseUI + 豆瓣API v2 开发的项目。 
+使用 Vue + VueRouter + Webpack + MuseUI + 豆瓣API v2 开发的项目。 
 
 ## 项目截图 
 
