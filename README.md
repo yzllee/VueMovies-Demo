@@ -13,7 +13,7 @@
 git clone https://github.com/yzllee/VueMovies-Demo.git
 # 安装依赖
 npm install
-# 运行项目在 localhost:8080
+# 运行项目在 localhost:3000
 npm run dev
 
 ```
@@ -23,4 +23,4 @@ npm run dev
 - [ https://museui.github.io/ ](https://museui.github.io/) 
 - [ https://github.com/mzabriskie/axios ](https://github.com/mzabriskie/axios) 
 - [ https://github.com/RalfZhang/Vdo ](https://github.com/RalfZhang/Vdo) 
-- [http://www.jianshu.com/p/42e11515c10f](http://www.jianshu.com/p/42e11515c10f) 
+- [ http://www.jianshu.com/p/42e11515c10f ](http://www.jianshu.com/p/42e11515c10f) 

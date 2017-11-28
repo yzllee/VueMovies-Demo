@@ -4,7 +4,7 @@
       <mu-paper :zDepth="2" >
         <mu-appbar title="Title" class='search-bar'>
             <mu-icon-button class='bar-icon' icon='arrow_back' slot="left" @click="goBack()"/>
-            <input v-model.trim="q" :value="text" @keyup.enter="search" autofocus=true :underlineShow='false' class="bar-text" hintText="请输入关键字"/>
+            <input v-model.trim="q" @keyup.enter="search" autofocus=true :underlineShow='false' class="bar-text" hintText="请输入关键字"/>
             <mu-icon-button class='bar-icon' icon='close' slot="right" @click="clearDate()"/>
         </mu-appbar>
       </mu-paper>
